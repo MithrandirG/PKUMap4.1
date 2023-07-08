@@ -1,0 +1,64 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>B_Map.png</file>
+        <file>B_Map2.png</file>
+        <file>tower.png</file>
+        <file>tower1.png</file>
+        <file>lake.png</file>
+        <file>Ewenbuilding.png</file>
+        <file>map.jpg</file>
+        <file>mapbutton.png</file>
+        <file>background1.png</file>
+        <file>background2.png</file>
+        <file>background3.png</file>
+        <file>locate.png</file>
+        <file>locate_hl.png</file>
+        <file>right.png</file>
+        <file>left.png</file>
+        <file>pku_logo.png</file>
+        <file>ans_bg.jpg</file>
+        <file>cat.jpg</file>
+        <file>back.png</file>
+        <file>background_pkulife.png</file>
+    </qresource>
+    <qresource prefix="/new/prefix2">
+        <file>intro_imgs/imgs/01.png</file>
+        <file>intro_imgs/imgs/02.jpg</file>
+        <file>intro_imgs/imgs/03.jpg</file>
+        <file>intro_imgs/imgs/11.jpg</file>
+        <file>intro_imgs/imgs/12.jpg</file>
+        <file>intro_imgs/imgs/13.jpg</file>
+        <file>intro_imgs/imgs/21.jpg</file>
+        <file>intro_imgs/imgs/22.jpg</file>
+        <file>intro_imgs/imgs/23.jpg</file>
+        <file>intro_imgs/imgs/31.jpg</file>
+        <file>intro_imgs/imgs/32.jpg</file>
+        <file>intro_imgs/imgs/33.jpg</file>
+        <file>intro_imgs/imgs/41.jpg</file>
+        <file>intro_imgs/imgs/42.jpg</file>
+        <file>intro_imgs/imgs/43.jpg</file>
+        <file>intro_imgs/imgs/51.jpg</file>
+        <file>intro_imgs/imgs/52.jpg</file>
+        <file>intro_imgs/imgs/53.jpg</file>
+        <file>intro_imgs/imgs/61.jpg</file>
+        <file>intro_imgs/imgs/62.jpg</file>
+        <file>intro_imgs/imgs/63.jpg</file>
+        <file>intro_imgs/imgs/71.jpg</file>
+        <file>intro_imgs/imgs/72.jpg</file>
+        <file>intro_imgs/imgs/73.jpg</file>
+        <file>intro_imgs/imgs/81.jpg</file>
+        <file>intro_imgs/imgs/82.jpg</file>
+        <file>intro_imgs/imgs/83.jpg</file>
+        <file>intro_imgs/imgs/91.jpg</file>
+        <file>intro_imgs/imgs/92.jpg</file>
+        <file>intro_imgs/imgs/93.jpg</file>
+        <file>intro_imgs/imgs/101.jpg</file>
+        <file>intro_imgs/imgs/103.png</file>
+        <file>intro_imgs/imgs/102.jpg</file>
+    </qresource>
+    <qresource prefix="/new/prefix3">
+        <file>route/east_route.png</file>
+        <file>route/south_route.png</file>
+        <file>route/west_route.png</file>
+    </qresource>
+</RCC>
